@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924795589763",
+    "project_id": "nithlostnfound",
+    "storage_bucket": "nithlostnfound.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924795589763:android:13acd61ad9f3d9456337b6",
+        "android_client_info": {
+          "package_name": "com.example.nithlnf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNmZ6sHUiExKg82yRRf4M9h3JTSs3QhT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
